@@ -2,7 +2,7 @@ class VisaoTarefa:
     @staticmethod
     def exibir_tarefas(tarefas):
         if not tarefas:
-            print("Nenhuma tarefa agendada.")
+            print("Nenhuma tarefa agendadaa.")
             return
         
         for i, tarefa in enumerate(tarefas, 1):

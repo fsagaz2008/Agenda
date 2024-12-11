@@ -6,6 +6,7 @@ def main():
     while True:
         print("1. Adicionar Tarefa")
         print("2. Exibir Tarefas")
+        print("4. GitHub")
         print("3. Sair")
         escolha = input("Escolha uma opção: ")
 
